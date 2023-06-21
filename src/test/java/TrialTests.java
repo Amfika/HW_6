@@ -1,6 +1,7 @@
 import org.testng.annotations.Test;
+import org.testng.Assert;
 
-public class Tests {
+public class TrialTests {
 
     @Test
     public static void firstTest(){
@@ -9,7 +10,7 @@ public class Tests {
 
     @Test
     public static void secondTest(){
-        System.out.println("Second test!!");
+        Assert.fail();
     }
 
     @Test
