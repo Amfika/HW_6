@@ -15,7 +15,7 @@ public class TrialTests {
 
     @Test
     public static void failingTest(){
-        System.out.println("failing test");;
+        System.out.println("failing test");
     }
     }
 
