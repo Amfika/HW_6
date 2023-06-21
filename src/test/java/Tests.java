@@ -10,7 +10,7 @@ public class Tests {
 
     @Test
     public static void secondTest(){
-        System.out.println("Second test!");
+        System.out.println("Second test!!");
     }
 
     @Test
